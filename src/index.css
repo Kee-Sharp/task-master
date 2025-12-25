@@ -1,0 +1,9 @@
+div.overdue-task {
+  background-color: #ffcccc;
+  border-color: #ff0000;
+}
+
+div.completed-task {
+  background-color: #d3ffd3;
+  border-color: #00cc00;
+}
